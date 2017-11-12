@@ -1,0 +1,44 @@
+.navbar {
+    background-color: #121212;
+    height: 100%;
+    padding: 0px;
+}
+
+.nav-item .nav-link {
+    color: #c9aa71;
+    font-size: 20px;
+}
+
+.nav-item:hover {
+    background: #3D3D3D;
+    cursor: pointer;
+}
+
+.nav-item.active {
+    background: #3D3D3D;
+}
+
+.nav-item {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.lolzinho1 {
+    height: 400px;
+}
+
+.titulo1 {
+    padding-top: 20px;
+}
+
+.linha1 {
+    background: red;
+}
+
+.logo {
+    height: 70px;
+    width: 180px;
+    padding-left: 20px;
+}
